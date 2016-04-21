@@ -1,0 +1,8 @@
+成功识别的内容如下:
+标识符:int abc A i n b c a a2 read for if 
+保留字:int read for if 
+无符号整数:123 2 0 12345 1 
+分界符:; ( ) { } 
+运算符:= <= + != 
+注释内容:
+/*This a testf发的 program.*/
